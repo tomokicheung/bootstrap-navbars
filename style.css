@@ -42,3 +42,19 @@
 .aloha .shop {
   color: #edc601;
 }
+
+/* Navbar 5: Duke's Waikiki, teal full-width bar with white text */
+.dukes {
+  background-color: #017574;
+  color: white;
+}
+
+/* white menu links instead of Bootstrap's default link blue */
+.dukes .nav-link {
+  color: white;
+}
+
+/* ORDER TAKEOUT & DELIVERY in Duke's gold */
+.dukes .order {
+  color: #f1a228;
+}
