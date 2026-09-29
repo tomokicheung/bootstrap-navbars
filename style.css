@@ -32,3 +32,13 @@
   background-color: rgb(48, 73, 95);
   color: white;
 }
+
+/* Navbar 4: Aloha Beer links in dark text instead of Bootstrap's default link blue */
+.aloha .nav-link {
+  color: black;
+}
+
+/* the Shop link in Aloha Beer's yellow */
+.aloha .shop {
+  color: #edc601;
+}
