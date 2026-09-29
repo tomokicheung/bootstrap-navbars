@@ -1,0 +1,9 @@
+/* Navbar 1: The Boardroom, dark teal full-width bar */
+.boardroom {
+  background-color: #133b40;
+}
+
+/* white links and icons on the teal bar */
+.boardroom a {
+  color: white;
+}
