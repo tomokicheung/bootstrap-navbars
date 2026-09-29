@@ -26,3 +26,9 @@
   padding-top: 0px;
   color: black;
 }
+
+/* Navbar 3: Buzz's, slate blue full-width bar with white text */
+.buzzs {
+  background-color: rgb(48, 73, 95);
+  color: white;
+}
