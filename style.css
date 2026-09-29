@@ -7,3 +7,22 @@
 .boardroom a {
   color: white;
 }
+
+/* Navbar 2: Morning Brew menu items (the spec's ".nav-items" means these .nav-item elements) */
+.morning-brew .nav-item {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 2px;
+  padding-bottom: 0.5rem;
+  color: #e33e19;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  cursor: pointer !important;
+}
+
+/* the active item (Home): black text, sitting flush under its thicker border */
+.morning-brew .active {
+  padding-top: 0px;
+  color: black;
+}
